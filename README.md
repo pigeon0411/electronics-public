@@ -1,7 +1,15 @@
-# electronics-public
+Electronics Public
+==================
 
-This repository contains public useful documents of our internal private electronic repository.
+This repository mirrors our internal private repository `electronics`, exposing only a subset of the projects and their documentation that we aim to make public.
 
-To correctly manage the large files stored within this repository, follow the [instructions to install Git LFS][1].
+The **projects** folder contains the boards developed, the proposal projects, the robot documentation.
 
-[1]: https://help.github.com/en/articles/installing-git-large-file-storage
+The **config** folder contains useful information about sofware configuration.
+
+## Git LFS remark
+This repository exploits the Git Large File Support ([LFS][1]) to handle the binary files. To download the binary files, follow the GitHub [instructions][2]. To configure Git LFS, follow these [instructions][3].
+
+[1]: https://git-lfs.github.com/
+[2]: https://help.github.com/articles/installing-git-large-file-storage/
+[3]: https://help.github.com/en/github/managing-large-files/configuring-git-large-file-storage

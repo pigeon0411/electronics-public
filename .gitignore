@@ -1,0 +1,30 @@
+# -------------------------------------------------
+# electronics repository .gitignore
+# -------------------------------------------------
+
+# -------------------------------------------------
+# Ignoring files
+/projects/boards/ICTsLayouts.xml
+/projects/boards/ffs_visited_links.lst
+/projects/boards/FFS_Symbols.log
+/projects/boards/FFS_Parts.log
+/projects/boards/FFS.log
+/projects/boards/favorites.xml
+/projects/boards/DxDesigner.xml
+/projects/boards/DxDesigner.wsp
+/projects/boards/workspace
+
+
+# -------------------------------------------------
+# Ignoring directories and their contents
+RTE
+DebugConfig
+
+# -------------------------------------------------
+# Ignoring files by extension
+*.log
+*.bak
+*.scvd
+*.dbk
+*.obk
+
