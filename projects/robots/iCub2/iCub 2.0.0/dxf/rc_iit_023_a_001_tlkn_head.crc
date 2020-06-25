@@ -1,0 +1,19 @@
+﻿  MODEL RC_IIT_023_A_001_TLKN_HEAD :
+ 
+
+  1 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 13 (COMPONENT, id = 512) 
+  in model RC_IIT_023_G_073 refers to:
+
+Feature number 5 (COMPONENT, id = 60) 
+  in model RC_IIT_023_G_074 refers to:
+
+Feature number 13 (COMPONENT, id = 512) 
+  in model RC_IIT_023_G_073 - circle closed.
+
