@@ -28,3 +28,6 @@ DebugConfig
 *.dbk
 *.obk
 
+/projects/boards/P2020_03_AMC_BLDC_BrushLessMotorControl/pads/Rev_00/AMC_BLDC_00/Highspeed
+/projects/boards/P2020_03_AMC_BLDC_BrushLessMotorControl/pads/Rev_00/AMC_BLDC_00/SL_borders.ini
+/projects/boards/P2020_03_AMC_BLDC_BrushLessMotorControl/pads/Rev_00/AMC_BLDC_00/SL_speccomp.ini
