@@ -3,9 +3,9 @@ Electronics Public
 
 This repository mirrors our internal private repository `electronics`, exposing only a subset of the projects and their documentation that we aim to make public.
 
-The **projects** folder contains the boards developed, the proposal projects, the robot documentation.
-
-The **config** folder contains useful information about sofware configuration.
+In particular, we have that:
+- The **projects** folder contains the boards developed, the proposal projects, the robot documentation.
+- The **config** folder contains useful information about sofware configuration.
 
 ## Git LFS remark
 This repository exploits the Git Large File Support ([LFS][1]) to handle the binary files. To download the binary files, follow the GitHub [instructions][2]. To configure Git LFS, follow these [instructions][3].
